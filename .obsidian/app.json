@@ -1,3 +1,6 @@
 {
-  "spellcheck": false
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "extra",
+  "attachmentFolderPath": "./adjuntos"
 }

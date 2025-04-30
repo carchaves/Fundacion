@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias de la Computación/Técnicas de diseño de algoritmos/Guias Practicas.md",
+                "file": "Ciencias de la Computación/2025 1C/Lenguajes Formales, Automatas y Computabilidad/Definición de lenguaje y jerarquía Chomsky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guias Practicas"
+              "title": "Definición de lenguaje y jerarquía Chomsky"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -160,23 +160,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "8df19179d192fd1c",
   "lastOpenFiles": [
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/Algoritmos de grafos.md",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/Backtracking.md",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/Guias Practicas.md",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/Programación Dinámica.md",
+    "Ciencias de la Computación/2025 1C/Lenguajes Formales, Automatas y Computabilidad/Definición de lenguaje y jerarquía Chomsky.md",
+    "Ciencias de la Computación/2025 1C/Lenguajes Formales, Automatas y Computabilidad/adjuntos/Pasted image 20250430002529.png",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/adjuntos/Pasted image 20250430001529.png",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/adjuntos/Pasted image 20250430002302.png",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/adjuntos",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/adjuntos/Pasted image 20250419142023.png",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/adjuntos/Pasted image 20250419142215.png",
+    "Ciencias de la Computación/2025 1C/Técnicas de diseño de algoritmos/adjuntos/Pasted image 20250419171458.png",
+    "Ciencias de la Computación/Arquitectura y Organización de Computadores/Videos/Video 1/Pasted image 20240916154642.png",
+    "Ciencias de la Computación/Arquitectura y Organización de Computadores/Videos/Video 1/Endianess.md",
+    "Ciencias de la Computación/Arquitectura y Organización de Computadores/Videos/Video 1/Compilador.md",
+    "Ciencias de la Computación/Arquitectura y Organización de Computadores/Videos/Video 1/Archivo Objeto.md",
+    "Ciencias de la Computación/Arquitectura y Organización de Computadores/Videos/Videos de Arquitectura y Organización del Computador.md",
+    "Ciencias de la Computación/2025 1C/Lenguajes Formales, Automatas y Computabilidad/adjuntos/Pasted image 20250430001858.png",
+    "Ciencias de la Computación/2025 1C/Lenguajes Formales, Automatas y Computabilidad/adjuntos",
+    "Pasted image 20250430001751.png",
+    "extra",
+    "Ciencias de la Computación/2025 1C/Lenguajes Formales, Automatas y Computabilidad",
+    "Ciencias de la Computación/2025 1C",
+    "Ciencias de la Computación/Sin nombre/Sin título.md",
+    "Ciencias de la Computación/Sin nombre",
     "hell yeasssss.md",
-    "Ciencias de la Computación/Técnicas de diseño de algoritmos/Guias Practicas.md",
     "Untitled.canvas",
     "Plugins.md",
-    "2025-04-23.md",
-    "Ciencias de la Computación/Técnicas de diseño de algoritmos/Programación Dinámica.md",
-    "Ciencias de la Computación/Técnicas de diseño de algoritmos/Algoritmos de grafos.md",
-    "Ciencias de la Computación/Técnicas de diseño de algoritmos/Backtracking.md"
+    "2025-04-23.md"
   ]
 }
