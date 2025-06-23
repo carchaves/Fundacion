@@ -6,3 +6,7 @@ Una diferencia que tiene con otros autómatas es que puede colgarse sin alcanzar
 tesis church-turing: no exiten funciones computables para las que no sea posible una maquina de turing.
 
 Existen otros formalismos o sistemas que son equivalentes a las maquinas de turing, estos son turing-completos
+
+
+# Codificaciones y funciones parcialmente computables
+Dado un programa P para cada N P N se define $Ψ_P^n: \mathbb{N}^n \rightarrow \mathbb{N}$  como la funci´on computada por P con n entradas.
