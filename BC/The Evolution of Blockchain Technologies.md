@@ -12,3 +12,9 @@ Aún asi se debe tener las consecuencias antes nombradas de utilizar extensivame
 La blockchain es un libro que puede registrar transacciones de una forma inmutable, verificable y permanente.
 El consenso es el orden en el que se registran las transacciones. Es un concepto fundamental de la teconología. En dependencia de la blockchain este puede ser permisionado o no permisionado, esto quiere decir que para dar consenso (participar) es necesario o no, tener autorización.
 A su vez en dependencia del caso, quien puede leer las transacciones escritas en la cadena o hacer nuevas propuestas, pueden ser privado (donde participantes autorizados de una oraganización o entidades con permisos especificos, como BlockChains empresariales, Hyperledger Fabric es una de ellas) o público (donde cualquier persona puede leer las transacciones y participar en la propuesta de nuevos bloques, por ejemplo Bitcoin o Etherium).
+En el caso de C/S los usuarios ponen su confianza en individuos para realizar las acciones (i.e. transacciones monetarias digitales), mientras que, en blockchain los usuarios forman parte de una sociedad o red de nodos. Esto implica que para que se realize la acción todos los nodos de la red deben ponerse de acuerdo y llegar a un consenso.
+Dado que los nodos de dicha red deben comunicarse para llegar a un consenso y que pueden encontrarse a grandes distancias, se presentan dos problemas.
+- Los mensajes tienen delay entre el emisor y el receptor
+- La comunicacion puede interrumpirse (i.e. un crasheo) .
+Esto genera una complicación porque el orden de eventos para un nodo puede ser distinto para otro, es decir que tienen dos versiones de la blockchain.
+<img src="https://lh7-rt.googleusercontent.com/slides/AAmGeS0n7skqlv0jLn7fmncCLrY14XOG67OLHBJbAGF0LWZpz5YTPFUaA-G1msUx_q03m6T4k7hwbkuZYl0cAOphRcT5yDqXMouo9F99NKLwbH5EcEcgAPaRpulcWO8Ox0yi5PTgQCd7oWmCabhAna2DYVU0HeWGANK-XpsV=s2048">

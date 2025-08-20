@@ -1,0 +1,1 @@
+los tripulantes fueron capacitados por copa y trabajan en copa desde el servicio, en panama es bien remunerado pero puede no serlo en otros paises. Les brinda servicio de acomodamietno y transporte. No es necesario mucho solo atencion al cliente, aptitud fisica y saber nadar.

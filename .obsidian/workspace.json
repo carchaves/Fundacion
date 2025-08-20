@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git comando.md",
+                "file": "BC/The Evolution of Blockchain Technologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git comando"
+              "title": "The Evolution of Blockchain Technologies"
+            }
+          },
+          {
+            "id": "aa70e4d48cd1d9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciencias de la Computación/4C/Arquitectura y Organización de Computadores/Clases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clases"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,12 +184,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7fbe588e552ad863",
+  "active": "aa70e4d48cd1d9f9",
   "lastOpenFiles": [
     "BC/The Evolution of Blockchain Technologies.md",
+    "Ciencias de la Computación/4C/Arquitectura y Organización de Computadores/Clases.md",
+    "Tripulante de cabina.md",
+    "Git comando.md",
     "BC/Untitled.md",
     "BC",
-    "Git comando.md",
     "Plugins.md",
     "Ciencias de la Computación/2025 1C/Lenguajes Formales, Automatas y Computabilidad/Parcial 2/Lenguajes computables.md",
     "Sin nombre",
