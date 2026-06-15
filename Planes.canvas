@@ -7,7 +7,7 @@
 		{"id":"6a2907cf1199568c","type":"text","text":"Suscribirse a claude","x":-880,"y":460,"width":250,"height":60},
 		{"id":"4274bfd9b4d239ad","type":"text","text":"Esperar a que baje el s&p y nasdac e invertir","x":-600,"y":460,"width":250,"height":60},
 		{"id":"a23e42c9cefdf0b0","type":"text","text":"Cambiar Ip de router","x":-320,"y":460,"width":250,"height":60},
-		{"id":"a77faa7b6d945a6a","type":"text","text":"Limpiar ","x":-120,"y":625,"width":250,"height":60}
+		{"id":"a77faa7b6d945a6a","type":"text","text":"Limpiar","x":-320,"y":595,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"0f760263215f22ca","fromNode":"a23e42c9cefdf0b0","fromSide":"bottom","toNode":"a77faa7b6d945a6a","toSide":"top"}
