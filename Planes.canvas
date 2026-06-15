@@ -4,9 +4,12 @@
 		{"id":"f0ad9eabc35ef8ff","type":"text","text":"Medicina/Cremas 15c/u\nSalidas 40xsemana","x":260,"y":430,"width":315,"height":90},
 		{"id":"765eabd084c0088c","type":"text","text":"Psicologa 40xsemana\nGimnasio 30xmes\nClaude 20xmes\nEscalada 15xsemana","x":260,"y":300,"width":315,"height":117},
 		{"id":"435077bd1b9458d0","type":"text","text":"Total: 270 ~ 445\nIngresos: 800\nPosible inversion: 355 ~ 530","x":260,"y":540,"width":250,"height":85},
-		{"id":"a23e42c9cefdf0b0","x":-1160,"y":460,"width":250,"height":60,"type":"text","text":"Cambiar Ip de router"},
 		{"id":"6a2907cf1199568c","type":"text","text":"Suscribirse a claude","x":-880,"y":460,"width":250,"height":60},
-		{"id":"4274bfd9b4d239ad","type":"text","text":"Esperar a que baje el s&p y nasdac e invertir","x":-600,"y":460,"width":250,"height":60}
+		{"id":"4274bfd9b4d239ad","type":"text","text":"Esperar a que baje el s&p y nasdac e invertir","x":-600,"y":460,"width":250,"height":60},
+		{"id":"a23e42c9cefdf0b0","x":-1130,"y":680,"width":250,"height":60,"type":"text","text":"Cambiar Ip de router"},
+		{"id":"a77faa7b6d945a6a","x":-1135,"y":989,"width":250,"height":60,"type":"text","text":"Si"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0f760263215f22ca","fromNode":"a23e42c9cefdf0b0","fromSide":"bottom","toNode":"a77faa7b6d945a6a","toSide":"top"}
+	]
 }

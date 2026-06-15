@@ -15,8 +15,8 @@
               "state": {
                 "file": "Planes.canvas",
                 "viewState": {
-                  "x": -795.6831155751887,
-                  "y": 660.4028560279778,
+                  "x": -690.3981098628868,
+                  "y": 1180.421681215542,
                   "zoom": -1.3303603197806146
                 }
               },
@@ -158,7 +158,7 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "c843def3588fcfc6",
+  "active": "1a1af72ddabaf4fc",
   "lastOpenFiles": [
     "Sin nombre"
   ]
