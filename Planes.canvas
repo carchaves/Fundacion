@@ -5,11 +5,20 @@
 		{"id":"765eabd084c0088c","type":"text","text":"Psicologa 40xsemana\nGimnasio 30xmes\nClaude 20xmes\nEscalada 15xsemana","x":260,"y":300,"width":315,"height":117},
 		{"id":"435077bd1b9458d0","type":"text","text":"Total: 270 ~ 445\nIngresos: 800\nPosible inversion: 355 ~ 530","x":260,"y":540,"width":250,"height":85},
 		{"id":"6a2907cf1199568c","type":"text","text":"Suscribirse a claude","x":-880,"y":460,"width":250,"height":60},
-		{"id":"4274bfd9b4d239ad","type":"text","text":"Esperar a que baje el s&p y nasdac e invertir","x":-600,"y":460,"width":250,"height":60},
 		{"id":"a23e42c9cefdf0b0","type":"text","text":"Cambiar Ip de router","x":-320,"y":460,"width":250,"height":60},
-		{"id":"a77faa7b6d945a6a","type":"text","text":"Limpiar","x":-320,"y":595,"width":250,"height":60}
+		{"id":"fff92d4aa0415b7b","x":-1160,"y":460,"width":250,"height":60,"type":"text","text":"Arreglar impresora"},
+		{"id":"05c8ef5d70187968","x":-600,"y":460,"width":250,"height":60,"type":"text","text":"Hablar con stefa y comprarle una compu\n"},
+		{"id":"a77faa7b6d945a6a","type":"text","text":"Limpiar discos duros","x":-320,"y":564,"width":250,"height":60},
+		{"id":"5753cf1157b2255c","x":-320,"y":655,"width":250,"height":60,"type":"text","text":"Armar servidor"},
+		{"id":"4cd116732fa12fd0","x":-600,"y":565,"width":250,"height":60,"type":"text","text":"Armar y configurar alquiler de pc"},
+		{"id":"4274bfd9b4d239ad","type":"text","text":"Esperar a que baje el s&p y nasdac e invertir resto de ahorros","x":-600,"y":655,"width":250,"height":85},
+		{"id":"23aeb3cd0c842fd7","x":-1160,"y":565,"width":250,"height":60,"type":"text","text":"Imprimir piezas de ventana de toka"}
 	],
 	"edges":[
-		{"id":"0f760263215f22ca","fromNode":"a23e42c9cefdf0b0","fromSide":"bottom","toNode":"a77faa7b6d945a6a","toSide":"top"}
+		{"id":"0f760263215f22ca","fromNode":"a23e42c9cefdf0b0","fromSide":"bottom","toNode":"a77faa7b6d945a6a","toSide":"top"},
+		{"id":"67bb8ac848b2d3a0","fromNode":"fff92d4aa0415b7b","fromSide":"bottom","toNode":"23aeb3cd0c842fd7","toSide":"top"},
+		{"id":"39fb61c44f55c75b","fromNode":"05c8ef5d70187968","fromSide":"bottom","toNode":"4cd116732fa12fd0","toSide":"top"},
+		{"id":"b9eda8d60b58bf0f","fromNode":"4cd116732fa12fd0","fromSide":"bottom","toNode":"4274bfd9b4d239ad","toSide":"top"},
+		{"id":"c9c8b9877c7294d0","fromNode":"a77faa7b6d945a6a","fromSide":"bottom","toNode":"5753cf1157b2255c","toSide":"top"}
 	]
 }
